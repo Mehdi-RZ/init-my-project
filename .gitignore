@@ -1,0 +1,4 @@
+**/.venv/**
+secrets_source
+**/Pipfile.lock
+**/__pycache__/**
